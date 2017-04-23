@@ -6,9 +6,11 @@ preservation work
 You have options!
 
 * Use the cards! 
+* Share the resource! 
 * Check out the project see what you can do
 * Open an issue, for the above, or if you spot one
 * Clone, and send a [pull request](https://gist.github.com/ross-spencer/9c5c1f59212638c7c891d393087db6d1)
+* Help me fix this up to be something useable for my colleauges, and for the community
 
 ## Download the apps
 
@@ -19,3 +21,8 @@ You have options!
 ## Log-in online
 
 [Brainscape](https://www.brainscape.com/)
+
+## Contributors
+
+Fran Croad
+Jan Hutar
