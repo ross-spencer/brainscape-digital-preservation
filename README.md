@@ -24,5 +24,5 @@ You have options!
 
 ## Contributors
 
-Fran Croad
-Jan Hutar
+Fran Chrystall
+Jan Hutař
