@@ -8,6 +8,9 @@
 "Significant Properties",
 "Digital Humanities","The use of digital techniques to support the scholarly study of the humanities (Literature, Archaeology, Architecture etc.). "
 "Robots.txt",
+"Digital Archive (DIN Standard Definition)","An organisation (consisting of people and technical systems) which has assumed responsibility for the long-term preservation and long-term availability of digital data and its provision for a specified designated community."
+"Digital Preservation (Library of Congress)","Digital preservation is the active management of digital content over time to ensure ongoing access. "
+"Digital Preservation (AV Preserve) ","Digital preservation is a function of digital curation, in which digital content is prepared and actively managed for long-term access. Digital content requires constant, active management. At the most basic level, this includes managing multiple copies in diferent geographic locations, ongoing and consistent comparison of the same files in multiple locations to ensure that no changes have occurred to them (this is called fixity checking) and performing healing procedures when files no longer match up, and maintaining audit logs from the time of ingest into the archival system that tracks all activities, like access and changes to the files over time."
 "Digital Preservation System",
 "Archival Management System",
 "CMS/ECMS",
@@ -18,3 +21,9 @@
 "Metadata Mapping",
 "Intellectual Entity",
 "Ngram",
+"Standards","A standard is commonly a set of recommendations and principles, that may or may not require absolute compliance. From the International Organization for Standardization's perspective (ISO), standards provide specifications for products, services, and systems, that help ensure quality, safety, and efficiency. In the digital preservation community, standards help to create a lingua franca as a platform to communicate upon. "
+"Active Management",
+"Preservation Watch",
+"Dark Archive",
+"Audit (AV Preserve)","A review of a system to ensure compliance. The outcome of an audit is binary – either you pass or fail."
+"Assessment (AV Preserve)","An assessment looks at how a system is succeeding and where there are gaps. The outcome of an assessment is feedback for growth; identification of gapis in practice; and spotlights strenghts. Assessments completed regularly may lead to a successful pass on an audit in future. "

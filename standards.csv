@@ -1,9 +1,14 @@
-"ISAD(G)"
-"ISAAR(CPF)"
-"ISDF"
-"ISDIAH"
-"RiC-CM"
-"Open provenance model"
-"PREMIS"
-"Dublin Core"
-"ISO15489"
+"ISAD(G)",
+"ISAAR(CPF)",
+"ISDF",
+"ISDIAH",
+"RiC-CM",
+"Open provenance model",
+"PREMIS","<ul><li>Preservation Metadata: Implementation Strategies (Working Group), initially developed the PREMIS data dictionary as a specification with the goal of creating an implementable set of ""core"" preservation metadata elements, with broad applicability within the digital preservation community.</li><br/><li>The PREMIS Editorial Committee coordinates revisions and implementation of the standard.</li><br/><li>PREMIS is system and encoding, agnostic. It defines ""what a preservation repository needs to know"". As such the repository that implements PREMIS may find itself doing so in any way that is fit for that institution.</li></ul>"
+"Dublin Core",
+"ISO 15489-1:2016","Information and documentation -- Records management – Part 1: Concepts and Principles. ISO 15489 is the first standard devoted specifically to records management; providing an outline for comprehensive assessment of full and partial records management programs."
+"ISO 15489-2:2016","Information and documentation -- Records management – Part 2: Guidelines. ISO 15489 is the first standard devoted specifically to records management; providing an outline for comprehensive assessment of full and partial records management programs."
+"ISO 14721:2012","<b>OAIS</b> – a reference model for what is required for an archive to provide long-term preservation of digital information"
+"ISO 16363:2013","<b>Audit and certification of trustworthy digital repositories</b> – sets out comprehensive metrics for what an archive must do, based on OAIS"
+"ISO 16919:2014","<b>Requirements for bodies providing audit and certification of candidate trustworthy digital repositories</b> – specifies the competencies and requirements on auditing bodies"
+"DIN 31644","<i>EN</i>: Information and documentation - Criteria for trustworthy digital archives<br/><i>DE</i>: Information und Dokumentation - Kriterien für vertrauenswürdige digitale Langzeitarchive"
