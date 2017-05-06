@@ -1,10 +1,11 @@
+"NASA",
 "NDSR",
 "ASA",
 "ARANZ",
 "DPC",
-"Open Preservation Foundation","(plus synonyms)"
-"ISO",
-"LOC ",
+"Open Preservation Foundation","Formerly, Planets, and Open Planets Foundation. (OPF) Founded in 2010  to sustain the results of EU-funded research and development, OPF currently steward a portfolio of open-source digital preservation software and enable the development of best practice through interest groups, community events, and training. Their vision is shared solutions for effective and efficient digital preservation."
+"PLANETS","Planets (Preservation and Long-term Access through Networked Services) project ended on 31 May 2010. Their work is now maintained by the Open Preservation Foundation. Planets was a four-year project co-funded by the European Union to address core digital preservation challenges. The primary goal for Planets was to build practical services and tools to help ensure long-term access to digital cultural and scientific assets. "
+"LOC ","A research library that officially serves congress and is the de-facto National Libary of the United States of America. Library of Congress Digital Preservation initiatives includes the National Digital Stewardship Residency programme. "
 "TNA",
 "Hydra",
 "DPLA",
@@ -27,3 +28,4 @@
 "PREMIS","The Library of Congress Preservation Metadata activity responsible for the international metadata standard, also called PREMIS, which is designed to support the long-term preservation, and usability, of digital objects."
 "PTAB","Primary Trustworthy Digital Repository Authorisation Body Ltd. Responsible for three ISO standards related to establishing an internationally recognises and certified set of trustworthy digital repositories. <br/><ul><li><b>ISO 14721:2012</b> also known as CCSDS 650.0-M-2 (OAIS – a reference model for what is required for an archive to provide long-term preservation of digital information)</li><li><b>ISO 16363:2013</b> also known as CCSDS 652.0-M-1  (Audit and certification of trustworthy digital repositories – sets out comprehensive metrics for what an archive must do, based on OAIS)</li><li><b>ISO 16919:2014</b> also known as CCSDS 652.1-M-2 (Requirements for bodies providing audit and certification of candidate trustworthy digital repositories – specifies the competencies and requirements on auditing bodies)</li></ul>"
 "ISO","<ul><li>International Organization for Standardization (ISO) is an independent, non-governmental international organization responsible for creating standards that support innovation and provide solutions to global challenges.</li><br/><li>It is made up of 163 national standards bodies.</li><br/><li>ISO standards are specifications for products, services and systems, to ensure quality, safety and efficiency. They are instrumental in facilitating international trade.</li><br/><li>ISO headquarters are in Geneva, Switzerland.</li></ul>"
+"UNESCO",

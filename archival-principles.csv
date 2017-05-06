@@ -1,6 +1,10 @@
 "Record (ISO 15489-1:2016)","Information created or received and maintained as evidence and as an asset by an organization or person, in pursuit of legal obligation or in the transaction of business. "
-"Cardigan",
-"Original Order","(fonds)"
+"Cardigan","Knitwear. A preferred satorial choice made by the discerning archivist. "
+"Original Order (Society American Archivists)","The organization and sequence of records established by the creator of the records. FR: l'ordre primitif, respect de l'ordre intérieur."
+"Respect des Fonds","...or respect pour des fonds. Translated literally as respect of background (context). A principle for grouping records by the entirity of their context, by administration, organization, individual, entity, etc. "
+"Provenance","The background of a record that reveals its context, but which also allows the demonstration of the authenticity and integrity of the record’s content and meaning."
+"Integrity (UNESCO, 2003) ","The state of being whole, uncorrupted and free of unauthorised and undocumented changes."
+"Authenticity (UNESCO, 2003)","Quality of genuineness and trustworthiness of some digital materials, as being what they purport to be, either as an original object or as a reliable copy derived by fully documented processes from an original."
 "Archival Silences",
 "File (Digital)",
 "File (Archival)",
@@ -8,7 +12,7 @@
 "Folder (Digital)",
 "Redaction",
 "Item Model",
-"Provenance",
+,
 "Physical Carrier",
 "Agency",
 "Donor",

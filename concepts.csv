@@ -1,4 +1,7 @@
-"Format Identification",
+"Format Identification","Format identification has previously been accepted as the first step of digital preservation ‘knowing what you’ve got’ the volume of material that some organisations are responsbile for, however, makes this an ideal, but not necessarily a practicality. <br/> File format identification means looking at a digital file’s data (it’s binary content) for patterns that identify it as being structured similar to other files of the same ‘format’. Reading the pattern “PDF- 1.4” at the beginning of some files, may for example, be a good clue the file is going to be a PDF.<br/>Where a binary pattern cannot be ascribed to a digital file, either one isn’t known, or the file doesn’t conform, then other clues may be used. File format extension may be one. File name may be another, e.g. consistently named files, DS_Store, or Thumbs.db. "
+"File Format Extension",
+"File Format Signature",
+"Magic Number",
 "Web Archiving",
 "Web Crawling","(plus synonyms)"
 "Fixity",

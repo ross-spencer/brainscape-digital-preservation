@@ -1,12 +1,14 @@
-"DROID","DROID is a tool that… "
-"JHOVE","JHOVE is a tool that… "
+"PRONOM","PRONOM is a registry of file format information maintained by The National Archives, UK. PRONOM has an open contribution model but is curated by the teams at the organisation. PRONOM was published on the web for the first time  in 2004. It contains narrative information about a file format, relevant to digital preservation. Its strength however is that it provides a centralized mechanism for the tool DROID to download file format ‘signatures’ from. These signatures are encoded using a regular expression syntax and allow DROID to continuously be updated. Tools such as Siegfried can also use these signatures, and as such, PRONOM is a de-facto standard for this type of information in the digtial preservation community. "
+"DROID","DROID stands for Digital Record and Object Identification and was developed by The National Archives, UK whom it is still maintained by. Users of DROID point it at a collection of files and it will identify them based on their binary content.<br/>DROID is updated using the PRONOM registry which means it can remain up-to-date with modern signatures for the identification of digital files.<br/>DROID can be used from the command line, but it is more difficult to work with it programmatically. Tools like NANITE wrap DROID to enable easier integration with code. "
+"JHOVE","JHOVE utilizes the concepts of well-formedness and validity to return statistics about 14 different file formats including PNG, TIFF, and WAVE Audio. JHOVE will tell users whether their file is well-formed, or valid; both; or neither. Rules which determine this are encoded in the tool and have been elicited from the file format specifications for those file types. JHOVE is maintained by the Open Preservation Foundation. The tool was originally developed by Harvard University Libraries (HUL) and Gary McGath.  "
+"Siegfried","Siegfried is an open source tool developed independently by Richard Lehane. It utilizes a number of file format signature and identification mechanisms, and was developed initially utilizing those from the format registry PRONOM. "
+"Roy","Roy is a companion tool for Siegfried that allows the data source used by the tool to be customized. Such customizing might mean not using the entire corpus of signatures available to it, e.g. if you know you only want to provide file format identification for digital images in a digitization workflow. "
+"Linux File Command",
 "ffmprovisr",
 "ffmpeg",
 "rsync",
 "Vera PDF",
 "jpylyzer",
-"Siegfried",
-"Roy",
 "droidsfmin","droidsfmin is a tool by Martin Hoppenheit to reduce the number of signatures in the DROID signature file, e.g. for the purpose of quicker identification in image format only workflows. "
 "Rosetta",
 "Archivematica",
@@ -15,7 +17,6 @@
 "Apache Tika",
 "dfir.training","http://www.dfir.training Is a registry of digital forensics tools that may prove useful for dissecting and interpreting digital files for preservation"
 "Just Solve the File Format Problem","http://fileformats.archiveteam.org/wiki/Main_Page Is a wiki registry of file formats that can be edited by all users"
-"PRONOM",
 "KryoFlux",
 "Twitter",
 "Trove",
@@ -31,3 +32,5 @@
 "UK Web Archive",
 "UK Government Web Archive",
 "Library Carpentry",
+"The Signal","The Library of Congress blog whose basic intent is to discuss digital stewardship the blog covers other aspects of computer technology, most especially management, transmission and use of data. It covers new developments that have an impact on digital preservation and access. Contributors are varied and rich in skills and personality and come from across the archives and digital preservation community. "
+"OPF Blog","A blog hosted by the Open Preservation Foundation that invites free and open discussion of digital preservation issues impacting our community, and the tools we may use to face these challenges. The blog has a low-barrier to authoring and is free to sign-up to; as such it has a wide and varied range of contributors and blogs to read through.  "
