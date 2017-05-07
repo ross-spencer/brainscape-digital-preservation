@@ -5,12 +5,12 @@
 "Provenance","The background of a record that reveals its context, but which also allows the demonstration of the authenticity and integrity of the record’s content and meaning."
 "Integrity (UNESCO, 2003) ","The state of being whole, uncorrupted and free of unauthorised and undocumented changes."
 "Authenticity (UNESCO, 2003)","Quality of genuineness and trustworthiness of some digital materials, as being what they purport to be, either as an original object or as a reliable copy derived by fully documented processes from an original."
-"Archival Silences",
-"File (Digital)",
-"File (Archival)",
-"Folder (Archival)",
-"Folder (Digital)",
-"Redaction",
+"Archival Silences","Voices, and memories, of individuals, groups, or communities, and their activities – their marginalization, that don’t appear in the archival/documentary record due to the biases, unwittingly or otherwise, of the collecting institution; the nature of custodial archives; and/or an inability to access, and make available, the content of the record in meaningful ways."
+"File (Digital)","An information encoding that can be retrieved from digital storage and interpreted by a computer to be presented to the user in a suitable way. "
+"File (Archival) (Society of American Archivists)","A group of documents related by use or topic, typically housed in a folder (or a group of folders for a large file). The plural, files, is the whole of a collection of records."
+"Folder (Archival) (Society of American Archivists)","A sheet of cardboard or heavy paper stock that is used as a loose cover to keep documents and other flat materials together, especially for purposes of filing."
+"Folder (Digital)","A delineation of digital storage that organizes files into groups. Synonynous with the term directory. A directory inside another is often called a sub-directory."
+"Redaction","The obfuscation of sensitive, or secretive information in a document, e.g. to provide access, or to satisfy a freedom of information request. The information redacted may be protected through various legislation, e.g. data protection acts. Redaction protects individuals and organisations in appropriate circumstances. "
 "Item Model",
 "Retention and Disposal",
 "Physical Carrier",
