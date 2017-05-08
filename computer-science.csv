@@ -1,48 +1,52 @@
-"Data"
-"Information  "
-"Information Theory"
-"Compression (General)"
-"Compression (Lossless)"
-"Compression (Lossy)"
-"Uncertainty"
-"Heuristic"
-"Algorithm"
-"Migration"
-"Emulation"
-"Dependencies"
-"Semantic Versioning"
-"Checksum"
-"Symlink/Shortcut"
-"Byte"
-"Bitstream"
-"Programming"
-"Scripting Language"
-"Data Encoding"
-"Character Encoding"
-"Unicode"
-"UTF-8"
-"UTF-16"
-"EBCIDIC"
-"Unit Testing"
-"GitHub"
-"Git "
-"Source Control"
-"Linux"
-"Unix"
-"Enterprise Solution"
-"Bash Script"
-"Linked Open Data"
-"Write Blocker"
-"Zero-byte Files"
-"ASCII"
-"Binary (Base2)"
-"Hexadecimal (Base16)"
-"Machine Readable"
-"Claude Shannon"
-"Ada Lovelace"
-"Alan Turing"
-"Recursion"
-"Iterative Development"
-"Schema"
-"Ngram"
-"REST-ful "
+"Data","Signals that can be transmitted and can potentially be interpreted by a computer or a human. Data is commonly a stream of binary information that needs further processing to be understood. "
+"Information  ","Information may be synonymous with data. It could also be argued that information is data that can be interpreted meanfingfully, that is, it is more than just a nonsense stream of bytes. It has tangible meaning to the computer or human being interpreting it. "
+"Information Theory","The study of the quantification, storage, and communication of information. The application of information theory is crucial to compression techniques used in various hardware and software applications such as the transmission of signals, or JPEG compression."
+"Compression (General)","The use of entropy (redundancy) in a digital object to enable it to be reencoded in a way such that the resulting bitstream is smaller than the original, but that the original file can still be presented back to the user. "
+"Compression (Lossless)",
+"Compression (Lossy)",
+"Uncertainty",
+"Heuristic",
+"Algorithm",
+"Migration",
+"Emulation",
+"Dependencies",
+"Semantic Versioning",
+"Checksum",
+"Symlink/Shortcut",
+"Byte",
+"Bitstream",
+"Programming",
+"Scripting Language",
+"Data Encoding",
+"Character Encoding",
+"ASCII","American Standard Code for Information Interchange is the mapping of computer control signals, and latin alphanumeric characters to the 255 numbers that can be represented using a single byte. ASCII is heavily biased toward western writing systems and as such Unicode was created to make it possible to work with other writing systems in a computing environment."
+"Unicode",
+"UTF-8",
+"UTF-16",
+"EBCIDIC",
+"Unit Testing","The automated testing of source code by breaking it down into its smallest functional components – units. Testing is done by controlling inputs and testing the output and state of the program at various stages. "
+"Version Control","A mechanism for the storage of text based digital files and all subsequent changes made to them – literally – their versions. Version control systems such as Git, Subversion, and Mercurial, are key to software development workflows. Version control enable users to create ‘branches’ on which to work, and create ‘releases’ to aid in the the maintenance of software released to the public. "
+"Git","An example of a version control system, well known because of the cloud based implementation of the tool - GitHub. "
+"GitHub","A cloud-based version control and storage mechanism for source code, datasets, and other forms of publishing. The command line tool Git allows users to interact with it. Users can use Git and GitHub to create, clone, branch, and contribute to open source projects. "
+"Linux","A free and open source operating system (OS) developed in the 90s by Finland Computer Scientist Linus Torvalds and based on Unix-like principles. Android smartphones are Linux based, as are a number of commodity devices such as digital video recorders. Linux is characterized by its ‘kernel’ which provides the core control of the underlying computer system. Distributions add features to the operating system, and are as well known as the OS itself, e.g. Ubuntu, Raspbian, Debian, and Red Hat. "
+"Unix","A precursor to Linux. Unix is an early operating system that was developed in the 1970s to provide higher-level control of a computing system, e.g. for programming, or for users to script, and run, various sets of commands. "
+"Enterprise Solution","A buzzword for a piece of software, or a system, that has the potential to satisfy the needs of all, or a group of users, across an organizaiton. An enterprise content management system is named as such as it is expected to be interacted with by all of a company’s employees. "
+"Bash  ","A command line or terminal (text-based control mechanism of an operating system) available in Linux, as opposed to, DOS in the Windows Environment. "
+"Bash Script","A method of chaining commands and variables in Bash into something called a ‘script’ to perform a set of operations that together meet a user’s processing goals."
+"Linked Open Data","Data created and made available using the benefits of the web-technology stack. Four main principles are followed:<br/><ul><li>Use URIs to name (identify) things.</li><br/><li>Use HTTP URIs so that these things can be looked up (interpreted, ‘dereferenced’).</li><br/><li>Provide useful information about what a name identifies when it's looked up, using open standards such as RDF, SPARQL, etc.</li><br/><li>Refer to other things using their HTTP URI-based names when publishing data on the Web.</li></ul>"
+"Write Blocker","Hardware or software based protection of the storage system such that content can be read but cannot be written to. Write blockers are central to digital forensics where the material collected from storage devices such as hard drives have important evidentiary value and must not have been tampered with. "
+"Zero-byte Files","A zero byte file is a pointer to a location in storage where it is recorded in the filesystem a file will exist, but at said location, the file has not yet been written to, and/or had its content cleared. "
+"Binary (Base 2)","A number system of two digits, zero, and one through which all numbers can be represented. In computer systems binary numbers are collected into groups of 8-bits called a byte. "
+"Hexadecimal (Base 16)","A number system of 16 characters, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F. Hexadeciimal can represent all numbers. Its primary application is the representation of binary numbers in the form of two digit bytes. Hexadecimal makes binary easier to read, for example, the number 255, in binary is, 0b11111111, and in hexadecimal is 0xFF. A hexadecimal number is often prexifed with the number zero and letter ‘x’ to signal the following characters are hexadecimal. "
+"Machine Readable","A delineation in the understanding of a data structure where the core components are easily understandable without calculation or computation. For example, XML is commonly understood, despite complexity in its structure, to be machine readable, because viewers can look at its elements, attributes, and data values, and understand how data is represented."
+"Claude Shannon","Mathematician responsible for the creation of the field of studies known as Information Theory, the study of the quantification, storage, and communication of information."
+"Ada Lovelace","Mathematician known for what is widely seen as the first computer program on Babbage’s analytical engineering, and recognised the potential of computers and their applications beyond calculation. "
+"Alan Turing","Mathematician and computer scientist. Formalised the fundamentals of computer science, and developed the rules by which computers can be assesed as being artificially ‘intelligent’."
+"Recursion","A method of repeating a process where the result of the process gets fed back into itself as an input. Recursion is a feature of some programming languages that don’t have loops which allow data to be processed over and over until a certain exit condition is met."
+"Iterative Development","The development of a project, product, or software in a series of steps, with each step developing a minimal viable product, and each step providing a functional or behavioural improvement on the last. "
+"Schema","Description of a data model, restrictions, and rules by which to validate against for translation into a data encoding, e.g. XML document, JSON, or database."
+"Ngram","A sequence that describes the occurence of N ‘terms’ (syllables, words, names, etc.) retrieved from a corpus, or copora, of information for the purpose of research. "
+"API","Application Programming Interface. A description of a software library or web service and how users and software agents are expected to interact with it and retrieve, or contribute data."
+"RESTful API ","A method of retrieving data from a web service. The request is in the form of a suitable HTTP request. A HTTP response is sent back that contains the data requested by the user agent. "
+"State","A previous, current, or future representation of a computer program in memory. "
+"Atomicity (Databases)","A group of operations that occur together in a database and are commited together as a single transaction. If one of the operations fails, the database record is not written and the database is reverted back to its state before the interaction began. "
