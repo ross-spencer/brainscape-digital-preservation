@@ -1,11 +1,14 @@
 "Data","Signals that can be transmitted and can potentially be interpreted by a computer or a human. Data is commonly a stream of binary information that needs further processing to be understood. "
 "Information  ","Information may be synonymous with data. It could also be argued that information is data that can be interpreted meanfingfully, that is, it is more than just a nonsense stream of bytes. It has tangible meaning to the computer or human being interpreting it. "
 "Information Theory","The study of the quantification, storage, and communication of information. The application of information theory is crucial to compression techniques used in various hardware and software applications such as the transmission of signals, or JPEG compression."
-"Compression (General)","The use of entropy (redundancy) in a digital object to enable it to be reencoded in a way such that the resulting bitstream is smaller than the original, but that the original file can still be presented back to the user. "
-"Compression (Lossless)",
-"Compression (Lossy)",
-"Uncertainty",
-"Heuristic",
+"Bit ",
+"Byte ",
+"Compression (General)","The use of entropy (redundancy) in a digital object to enable it to be reencoded in a way such that the resulting bitstream is smaller than the original, but that the original file, or an approximation of the original file can still be presented back to the user. A file that has been compressed must be uncompressed."
+"Compression (Lossless)","A method of encoding data so that the resulting bitstream is smaller than the original, e.g. for transmission or storage, but when the data is uncompressed it is exactly the same as the original byte-for-byte.  "
+"Compression (Lossy)","Lossy compression is a term usually applied to files that have been transformed into something, smaller, through the removal of information, but which can be replayed back to the user in a way that is approximately the same. The MP3 algorithm ‘compresses’ audio streams by removing high-frequency signals that, theoretically, human beings cannot hear, transforming the signal, and then re-encoding it. The loss of high-frequency signals equates to a loss of information, and is therefore lossy. Should a user attempt to then recompress a lossy file, the file will be compressed even further resulting in even more information loss – think photocopy of a photocopy. <br/> N.B. it is a myth that simply opening a lossy file, e.g. JPG can make it lose even more information. The user must actively choose to resave the file, and even then, choose lossy options when doing so. "
+"Uncertainty","The state of being uncertain, for example, not knowhen when a project is expected to be completed by. "
+"Management of Uncertainty","The use of data, about an uncertain topic, or event, to simulate a range of potential outcomes that can be used to manage projects; risks; and costs; by giving stakeholders an evidence based projection about what may happen. "
+"Heuristic","A set of rules or principles that can be used to derive an outcome. For example, if asked to determine which direction is east or west, one might look at the time of day, and the position of the sun, and estimate thusly. Heuristics are often employed in programming where a formal algorithm does not exist, but which an outcome still needs to be derived, e.g. in reverse engineering a file format from a sample corpus. "
 "Algorithm",
 "Migration",
 "Emulation",

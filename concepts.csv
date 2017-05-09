@@ -40,3 +40,5 @@
 "Big Data","<i><b>Warning:</b> One of many definitions!</i><br/>A popular definition of big data is data that requires a certain amount of computation to be able to ask research questions and draw sensible conclusions from.<br/>A working definition of 'big data' seems to be a range from Gigabytes (querying portions of your collections for keywords, for example), to the generation of A Gigabyte a second (the amount of data produced, per second, by the Lard Hadron Collider in Switzerland) "
 "Digital Continuity","The idea that preservation of digital records happens in situ in the organisation creating the records. Principles of digital preservation apply, the custodianship of an archival institution is not needed to apply them. "
 "Audit Trail","Related to the concept of provenance, an audit trail describes the agents and actors that have accessed a digital resource and the processes (read, write, transform) that have been applied to that resource. "
+"Migration",
+"Emulation",
