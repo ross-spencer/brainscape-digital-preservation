@@ -1,32 +1,31 @@
 "Data","Signals that can be transmitted and can potentially be interpreted by a computer or a human. Data is commonly a stream of binary information that needs further processing to be understood. "
 "Information  ","Information may be synonymous with data. It could also be argued that information is data that can be interpreted meanfingfully, that is, it is more than just a nonsense stream of bytes. It has tangible meaning to the computer or human being interpreting it. "
 "Information Theory","The study of the quantification, storage, and communication of information. The application of information theory is crucial to compression techniques used in various hardware and software applications such as the transmission of signals, or JPEG compression."
-"Bit ",
-"Byte ",
+"Bit ","A single binary signal – on or off – represented as a one or a zero. "
+"Byte ","An encoding of 8 binary signals – eight ones or zeros – represented as a single integer which then needs further interpreting by a computer, or user, by looking up an appropriate encoding scheme. "
+"Bitstream","A contiguous stream of bytes that requires further interpretation by a user or computer."
+"Integer","An integer is a whole numner from zero to positive, or negative, infinity, e.g. 0, 1, 2, 4, 8, 16, 32, 64, 128. "
 "Compression (General)","The use of entropy (redundancy) in a digital object to enable it to be reencoded in a way such that the resulting bitstream is smaller than the original, but that the original file, or an approximation of the original file can still be presented back to the user. A file that has been compressed must be uncompressed."
 "Compression (Lossless)","A method of encoding data so that the resulting bitstream is smaller than the original, e.g. for transmission or storage, but when the data is uncompressed it is exactly the same as the original byte-for-byte.  "
 "Compression (Lossy)","Lossy compression is a term usually applied to files that have been transformed into something, smaller, through the removal of information, but which can be replayed back to the user in a way that is approximately the same. The MP3 algorithm ‘compresses’ audio streams by removing high-frequency signals that, theoretically, human beings cannot hear, transforming the signal, and then re-encoding it. The loss of high-frequency signals equates to a loss of information, and is therefore lossy. Should a user attempt to then recompress a lossy file, the file will be compressed even further resulting in even more information loss – think photocopy of a photocopy. <br/> N.B. it is a myth that simply opening a lossy file, e.g. JPG can make it lose even more information. The user must actively choose to resave the file, and even then, choose lossy options when doing so. "
 "Uncertainty","The state of being uncertain, for example, not knowhen when a project is expected to be completed by. "
 "Management of Uncertainty","The use of data, about an uncertain topic, or event, to simulate a range of potential outcomes that can be used to manage projects; risks; and costs; by giving stakeholders an evidence based projection about what may happen. "
 "Heuristic","A set of rules or principles that can be used to derive an outcome. For example, if asked to determine which direction is east or west, one might look at the time of day, and the position of the sun, and estimate thusly. Heuristics are often employed in programming where a formal algorithm does not exist, but which an outcome still needs to be derived, e.g. in reverse engineering a file format from a sample corpus. "
-"Algorithm",
-"Migration",
-"Emulation",
-"Dependencies",
-"Semantic Versioning",
-"Checksum",
-"Symlink/Shortcut",
-"Byte",
-"Bitstream",
-"Programming",
-"Scripting Language",
-"Data Encoding",
-"Character Encoding",
+"Algorithm","A formal, or codified description of a set of rules for determining an outcome from one or more inputs. Any set of rules combined to generate an outcome can be described as an algorithm, for example, the set of rules for baking a certain type of cake. An algorithm can be created to sort a set of numbers in the most optimal way possible. Algorithms are utilized in many of today’s online services, for example, YouTube, to determine the type of content that may be most interesting to its viewers. "
+"Dependencies","The components of our computer architectures that make it possible to achieve an outcome or result. For example, to run Microsoft Word, a dependency may be Microsoft Windows. Configured in Microsoft Windows may be a number of software libraries that enable it to interact with your computer’s hardware configuration. As we dissect a file, or piece of software, we begin to understand what other technology it depends on to be able to run. "
+"Semantic Versioning","The automated testing of source code by breaking it down into its smallest functional components – units. Testing is done by controlling inputs and testing the output and state of the program at various stages. "
+"Checksum","A method of controlling the version numbers of software in a way that both makes it clear to users what changes they can expect, but also, in a way that makes software developers more accountable for the breadth and depth of their changes in any one release.<ul><li>MAJOR version when you make incompatible API changes,</li><li>MINOR version when you add functionality in a backwards-compatible manner, and</li><li>PATCH version when you make backwards-compatible bug fixes.</li></ul>"
+"Executable","A synonym for program, a file that can be run, or executed by a user of a computer system. "
+"Symbolic Link/Shortcut","The most common use of either a symbolic link (symlink) or shortcut, on Windows or Linux is to point to a file, or executable at some other location on the hard disk than where the symlink is positioned, e.g. to make it easier to run a given application from a particular location. "
+"Programming Language","A set of instructions and rules that can be combined to perform a computational task or set of tasks. A programming language is just a flavour of instructions that all need to be boiled down to something that the processor can understand – usually assembly language. Programming languages usually differ in terms of abstraction, meaning that low-level languages work much closer to the hardware than high-level languages. "
+"Scripting Language","A high level language that is compiled at run-time via a program called an interpreter. By storing a large number of more complex, yet common functions and procedures in an interpreter, the user can be free to call those function using fewer commands in a ‘script’. A user can interact with data for example, without having to worry about underlying memory models of the computer. A scripting language cannot be run in absense of an interpreter so a dependency of running such code, for example, Ruby, or Python, is that their interpreters must be pre-installed on the host machine. "
+"Data Encoding","A method of structuring information in a way that can be processed further by user, or computer, e.g. Extensible Markup Language, JavaScript Obect Notation (JSON) and Comma Separated Values (CSV). File formats such as Microsoft Excel, Microsoft Word, ir JPEG are also data encodings, albeit quite a bit more complex.   "
+"Character Encoding","The mapping of binary numbers to a lexical or numerical character. Numerous character encodings exist including ASCII, and EBCIDIC. The widest range of characters can be represented using a standards called Unicode. "
 "ASCII","American Standard Code for Information Interchange is the mapping of computer control signals, and latin alphanumeric characters to the 255 numbers that can be represented using a single byte. ASCII is heavily biased toward western writing systems and as such Unicode was created to make it possible to work with other writing systems in a computing environment."
-"Unicode",
-"UTF-8",
-"UTF-16",
-"EBCIDIC",
+"Unicode","Unicode (maintained by the Unicode Consortium) is a computing industry standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. The Unicode Standard contains a repertoire of more than 128,000 characters covering 135 modern and historic scripts. Unicode can be implemented by different character encodings including UTF-8 and UTF-16."
+"UTF-8","UTF-8 is an encoding for Unicode and uses one byte for any ASCII character, all of which have the same code values in both UTF-8 and ASCII encoding, and up to four bytes for other characters. "
+"UTF-16","UTF-16 is an encoding for Unicode and uses one 16-bit unit for the characters that were representable in a prior character encoding called UCS-2 and two 16-bit units (4 × 8 bits) to handle each of the additional characters in the Unicode standard."
+"EBCIDIC","EBCIDIC is a legacy character encoding used in the past on IBM computers in the 1960s. EBCIDIC could be used internationally through the use of code pages. Code pages by any other name were simply EBCIDIC-like, other, character-encodings. One would need to look up Japanese, code page 930, CCSID 930, to understand how to decode an EBCIDIC message encoded using this variant. "
 "Unit Testing","The automated testing of source code by breaking it down into its smallest functional components – units. Testing is done by controlling inputs and testing the output and state of the program at various stages. "
 "Version Control","A mechanism for the storage of text based digital files and all subsequent changes made to them – literally – their versions. Version control systems such as Git, Subversion, and Mercurial, are key to software development workflows. Version control enable users to create ‘branches’ on which to work, and create ‘releases’ to aid in the the maintenance of software released to the public. "
 "Git","An example of a version control system, well known because of the cloud based implementation of the tool - GitHub. "
