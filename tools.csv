@@ -3,7 +3,7 @@
 "JHOVE","JHOVE utilizes the concepts of well-formedness and validity to return statistics about 14 different file formats including PNG, TIFF, and WAVE Audio. JHOVE will tell users whether their file is well-formed, or valid; both; or neither. Rules which determine this are encoded in the tool and have been elicited from the file format specifications for those file types. JHOVE is maintained by the Open Preservation Foundation. The tool was originally developed by Harvard University Libraries (HUL) and Gary McGath.  "
 "Siegfried","Siegfried is an open source tool developed independently by Richard Lehane. It utilizes a number of file format signature and identification mechanisms, and was developed initially utilizing those from the format registry PRONOM. "
 "Roy","Roy is a companion tool for Siegfried that allows the data source used by the tool to be customized. Such customizing might mean not using the entire corpus of signatures available to it, e.g. if you know you only want to provide file format identification for digital images in a digitization workflow. "
-"Linux File Command",
+"File","File is a command on Linux that uses a combination of magic numbers and heuristic to determine a file’s format and version. The original File was included in Unix version 4, 1973. The modern File command is a variant on those early versions, and is still updated and maintained. The difference between File and tools like DROID is the lack of unique identifier for a format type. This makes it harder to reference in preservation databases. "
 "ffmprovisr",
 "ffmpeg",
 "rsync",
