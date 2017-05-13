@@ -26,6 +26,14 @@ You have options!
 ## Suggested Topics
 
 * Web Archiving
+* Premis
+
+## Intrinsic Value
+
+* I dearly would love to see more added to the intrinsic value cards, is it a 
+thing in digital? If it is, what records? and if it is, maybe it provides more 
+evidence to folks that be that what we're doing is important. Positive evidence
+not just evidence based on risk.  
 
 ## Contributors
 
