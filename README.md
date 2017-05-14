@@ -1,15 +1,17 @@
-# preservation
-preservation work
+# Digital Preservation Brainscape
+
+A set of flash cards to introduce new folks to digital preservation concepts. The decks are open source for all contributions to improve learning and understanding. 
 
 ## How to contribute
 
 * Use the cards! 
 * Share the resource! 
 * Check out the project see what you can do
-* Open an issue, for the above, or if you spot one
+* Open an issue, or if you spot one
+* Help me to reduce jargon and improve clarity
 * Clone, and send a [pull request](https://gist.github.com/ross-spencer/9c5c1f59212638c7c891d393087db6d1)
 * Suggest topics and contribute content
-* Help me fix this up to be something useable for my colleauges, and for the community
+* Help me fix this up to be something useable for for the community
 
 ### Download the apps
 
@@ -19,7 +21,8 @@ preservation work
 
 ### Log-in online
 
-[Brainscape](https://www.brainscape.com/)
+* [Brainscape](https://www.brainscape.com/)
+* [Digital Preservation Deck](https://www.brainscape.com/packs/digital-preservation-9031147)
 
 ## Suggested Topics
 
