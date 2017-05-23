@@ -38,9 +38,8 @@ not just evidence based on risk.
 
 ## Contributors
 
-Fran Chrystall
-
-Jan Hutař
+* Fran Chrystall
+* Jan Hutař
 
 ## License
 
