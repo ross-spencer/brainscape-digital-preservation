@@ -41,3 +41,7 @@ not just evidence based on risk.
 Fran Chrystall
 
 Jan Hutař
+
+## License
+
+The material in these decks is purely for educational purposes. A lot, but not all content in these decks is unique. For example, it was easier to copy organisation mission statements and principles almost verbatim where they were available and not overly promotional. Tool text in some cases as well. Reuse therefore is with a prejudicial warning. 
