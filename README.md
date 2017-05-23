@@ -1,5 +1,7 @@
 # Digital Preservation Brainscape
 
+[Find it here!](https://www.brainscape.com/p/1FA8-LH-5DKH7)
+
 A set of flash cards to introduce new folks to digital preservation concepts. The decks are open source for all contributions to improve learning and understanding. 
 
 ## How to contribute
@@ -23,6 +25,10 @@ A set of flash cards to introduce new folks to digital preservation concepts. Th
 
 * [Brainscape](https://www.brainscape.com/)
 * [Digital Preservation Deck](https://www.brainscape.com/packs/digital-preservation-9031147)
+
+### Access the Cards
+
+[Access them here!](https://www.brainscape.com/p/1FA8-LH-5DKH7)
 
 ## Suggested Topics
 
