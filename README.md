@@ -32,6 +32,7 @@ A set of flash cards to introduce new folks to digital preservation concepts. Th
 
 ## Suggested Topics
 
+* Audio Visual
 * Web Archiving
 * Premis
 
