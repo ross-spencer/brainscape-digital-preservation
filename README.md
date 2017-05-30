@@ -15,6 +15,12 @@ A set of flash cards to introduce new folks to digital preservation concepts. Th
 * Suggest topics and contribute content
 * Help me fix this up to be something useable for for the community
 
+### Sugessting an edit redux
+
+If it's easier, you can also use the app to suggest an edit. 
+
+<img id="logo" src="https://github.com/ross-spencer/brainscape-digital-preservation/raw/master/src/edit.png" alt="suggest an edit"/>
+
 ### Download the apps
 
 [iTunes Store](https://itunes.apple.com/us/app/brainscape-smart-flashcards/id442415567?mt=8)
