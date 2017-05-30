@@ -1,6 +1,6 @@
 # Digital Preservation Brainscape
 
-[Find it here!](https://www.brainscape.com/p/1FA8-LH-5DKH7)
+[Find it here!](https://www.brainscape.com/p/1FA8-LH-5DKH7) and check out the [blog!](http://exponentialdecay.co.uk/blog/brainscape-flashcards-for-digital-preservation/)
 
 A set of flash cards to introduce new folks to digital preservation concepts. The decks are open source for all contributions to improve learning and understanding. 
 
@@ -19,7 +19,7 @@ A set of flash cards to introduce new folks to digital preservation concepts. Th
 
 If it's easier, you can also use the app to suggest an edit. 
 
-<img id="logo" src="https://github.com/ross-spencer/brainscape-digital-preservation/raw/master/src/edit.png" alt="suggest an edit"/>
+<img id="logo" src="https://raw.githubusercontent.com/ross-spencer/brainscape-digital-preservation/master/edit.png" alt="suggest an edit"/>
 
 ### Download the apps
 
