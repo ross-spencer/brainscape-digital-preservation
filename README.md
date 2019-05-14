@@ -23,9 +23,8 @@ If it's easier, you can also use the app to suggest an edit.
 
 ### Download the apps
 
-[iTunes Store](https://itunes.apple.com/us/app/brainscape-smart-flashcards/id442415567?mt=8)
-
-[Google Android App Store](https://play.google.com/store/apps/details?id=com.brainscape.mobile.portal&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+* [iTunes Store](https://itunes.apple.com/us/app/brainscape-smart-flashcards/id442415567?mt=8)
+* [Google Android App Store](https://play.google.com/store/apps/details?id=com.brainscape.mobile.portal&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
 ### Log-in online
 
@@ -51,8 +50,8 @@ not just evidence based on risk.
 
 ## Contributors
 
-* Fran Chrystall
-* Jan Hutař
+* [Fran Chrystall](https://twitter.com/franinboots)
+* [Jan Hutař](https://twitter.com/leninoc?lang=en)
 
 ## License
 
